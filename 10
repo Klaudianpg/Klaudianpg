@@ -29,3 +29,6 @@ def quicksort(seq):
     new_list = [number for number in bucket for bucket in buckets]
     return new_list
     
+Zmieniam cos
+I tu
+Tu też
